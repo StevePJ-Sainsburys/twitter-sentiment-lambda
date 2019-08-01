@@ -1,0 +1,2 @@
+rootProject.name="twitter-sentiment-analysis"
+enableFeaturePreview('IMPROVED_POM_SUPPORT')

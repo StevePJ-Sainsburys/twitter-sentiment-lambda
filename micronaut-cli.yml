@@ -1,0 +1,5 @@
+profile: function-aws
+defaultPackage: sainsburys.micronaut
+---
+testFramework: junit
+sourceLanguage: java
